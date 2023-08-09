@@ -1,6 +1,6 @@
 # Consistency in Coding
 
-![Consistency](https://github.com/yourusername/consistency/blob/main/consistency_logo.png)
+![Consistency](https://icon-library.com/images/consistent-icon/consistent-icon-26.jpg)
 
 Welcome to the **Consistency** repository! This space is dedicated to helping you embrace the power of consistency in your coding journey. Whether you're a seasoned developer or just starting out, maintaining consistency in your codebase is a fundamental practice that can significantly enhance the quality and readability of your work.
 
