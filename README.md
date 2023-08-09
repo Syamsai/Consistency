@@ -7,19 +7,19 @@ Welcome to the **Consistency** repository! This space is dedicated to helping yo
 ## Rules for Daily Coding Consistency
 Consistency is built through daily commitment. To foster this commitment, we've laid out some rules that, when followed, will help you spend at least 1 hour coding every day:
 
-**Set a Daily Goal:** Start each day by setting a specific coding goal for that day. Whether it's solving a bug, adding a feature, or learning a new concept, having a clear goal helps drive your coding practice.
+1. **Set a Daily Goal:** Start each day by setting a specific coding goal for that day. Whether it's solving a bug, adding a feature, or learning a new concept, having a clear goal helps drive your coding practice.
 
-**Allocate Time:** Dedicate a specific time slot for coding each day. Treat it like an important appointment that cannot be missed.
+2. **Allocate Time:** Dedicate a specific time slot for coding each day. Treat it like an important appointment that cannot be missed.
 
-**Eliminate Distractions:** During your coding hour, eliminate distractions as much as possible. Put away your phone, close unrelated tabs, and create a focused coding environment.
+3. **Eliminate Distractions:** During your coding hour, eliminate distractions as much as possible. Put away your phone, close unrelated tabs, and create a focused coding environment.
 
-**Use the Pomodoro Technique:** Consider using the Pomodoro Technique, which involves 25 minutes of focused coding followed by a 5-minute break. After completing four cycles, take a longer break.
+4. **Use the Pomodoro Technique:** Consider using the Pomodoro Technique, which involves 25 minutes of focused coding followed by a 5-minute break. After completing four cycles, take a longer break.
 
-**Reflect and Document:** At the end of each coding session, reflect on what you've accomplished and document your progress. This reflection helps you track your consistency and celebrate your achievements.
+5. **Reflect and Document:** At the end of each coding session, reflect on what you've accomplished and document your progress. This reflection helps you track your consistency and celebrate your achievements.
 
-**Accountability Partner:** Find a friend or colleague who shares your commitment to consistent coding. Keep each other accountable and share your daily achievements.
+6. **Accountability Partner:** Find a friend or colleague who shares your commitment to consistent coding. Keep each other accountable and share your daily achievements.
 
-**Stay Positive:** Consistency can be challenging, but stay positive and remind yourself of the long-term benefits. Each day you code brings you closer to your coding goals.
+7. **Stay Positive:** Consistency can be challenging, but stay positive and remind yourself of the long-term benefits. Each day you code brings you closer to your coding goals.
 
 ## Motivational Quotes
 
